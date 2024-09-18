@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9agCmtXjBVAJh53a686GQ+at/r2DQG/Ok7rchBbGLNw=",
+  "Source": "VhisperSolution.WebApi",
+  "BasePath": "_content/VhisperSolution.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,9 @@
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\bin\Debug\netstandard2.1\VhisperSolution.Domain.deps.json
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\bin\Debug\netstandard2.1\VhisperSolution.Domain.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\bin\Debug\netstandard2.1\VhisperSolution.Domain.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\obj\Debug\netstandard2.1\VhisperSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\obj\Debug\netstandard2.1\VhisperSolution.Domain.AssemblyInfoInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\obj\Debug\netstandard2.1\VhisperSolution.Domain.AssemblyInfo.cs
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\obj\Debug\netstandard2.1\VhisperSolution.Domain.csproj.CoreCompileInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\obj\Debug\netstandard2.1\VhisperSolution.Domain.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\obj\Debug\netstandard2.1\VhisperSolution.Domain.pdb

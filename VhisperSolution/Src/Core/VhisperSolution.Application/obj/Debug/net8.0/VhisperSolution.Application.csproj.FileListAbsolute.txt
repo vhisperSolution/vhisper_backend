@@ -1,0 +1,15 @@
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\bin\Debug\net8.0\VhisperSolution.Application.deps.json
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\bin\Debug\net8.0\VhisperSolution.Application.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\bin\Debug\net8.0\VhisperSolution.Application.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\bin\Debug\net8.0\VhisperSolution.Domain.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\bin\Debug\net8.0\VhisperSolution.Domain.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.csproj.AssemblyReference.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.AssemblyInfoInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.AssemblyInfo.cs
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.csproj.CoreCompileInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperS.558E3F9C.Up2Date
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\refint\VhisperSolution.Application.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\VhisperSolution.Application.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Application\obj\Debug\net8.0\ref\VhisperSolution.Application.dll

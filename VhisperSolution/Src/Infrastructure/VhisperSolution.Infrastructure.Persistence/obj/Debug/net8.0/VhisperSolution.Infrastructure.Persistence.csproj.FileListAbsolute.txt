@@ -1,0 +1,17 @@
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.deps.json
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Application.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Domain.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Application.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\bin\Debug\net8.0\VhisperSolution.Domain.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.AssemblyInfo.cs
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperS.FE218172.Up2Date
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\refint\VhisperSolution.Infrastructure.Persistence.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\VhisperSolution.Infrastructure.Persistence.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Persistence\obj\Debug\net8.0\ref\VhisperSolution.Infrastructure.Persistence.dll

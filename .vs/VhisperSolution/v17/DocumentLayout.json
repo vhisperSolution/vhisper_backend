@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AmirHossein-Project\\VhisperSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\updatecartable\\updatecartablecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\updatecartable\\updatecartablecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.domain\\products\\dtos\\detailcartabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.domain\\products\\dtos\\detailcartabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.domain\\products\\entities\\detailcartable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.domain\\products\\entities\\detailcartable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\interfaces\\repositories\\idetailcartablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\interfaces\\repositories\\idetailcartablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\interfaces\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\interfaces\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\createcartable\\createdetailscartablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\createcartable\\createdetailscartablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.domain\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.domain\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\updatecartable\\updatecartablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\updatecartable\\updatecartablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.domain\\products\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3DE1A0-EB74-453A-B2DE-A3A274B0A9D1}|VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\VhisperSolution.Domain.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.domain\\products\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\deletecartable\\deletedetailscartablecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\deletecartable\\deletedetailscartablecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\deletecartable\\deletedetailscartablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\deletecartable\\deletedetailscartablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\deleteproduct\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\deleteproduct\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\createcartable\\createdetailscartablecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\cartables\\commands\\createcartable\\createdetailscartablecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|c:\\amirhossein-project\\vhispersolution\\vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435B07D7-1AA8-4DAC-B34D-67A0EFE433BE}|VhisperSolution\\Src\\Core\\VhisperSolution.Application\\VhisperSolution.Application.csproj|solutionrelative:vhispersolution\\src\\core\\vhispersolution.application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDetailCartableRepository.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IDetailCartableRepository.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IDetailCartableRepository.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IDetailCartableRepository.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IDetailCartableRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:52:56.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:52:53.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Interfaces\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:52:52.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:46:46.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailCartableDto.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\DetailCartableDto.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\DetailCartableDto.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\DetailCartableDto.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\DTOs\\DetailCartableDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:46:34.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCartableCommandHandler.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommandHandler.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommandHandler.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommandHandler.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommandHandler.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCYAAADDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:35:13.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:34:25.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailCartable.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\DetailCartable.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\DetailCartable.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\DetailCartable.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\DetailCartable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:46:15.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\UpdateProduct\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:35:29.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCartableCommand.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommand.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommand.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommand.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\UpdateCartable\\UpdateCartableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:34:19.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDetailsCartableCommand.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommand.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommand.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommand.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:45:15.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\Product.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\Product.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Domain\\Products\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:55:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteDetailsCartableCommandHandler.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommandHandler.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommandHandler.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommandHandler.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:27:21.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteDetailsCartableCommand.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommand.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommand.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommand.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\DeleteCartable\\DeleteDetailsCartableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:26:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:27:04.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\DeleteProduct\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:26:24.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:58:08.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDetailsCartableCommandHandler.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommandHandler.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommandHandler.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommandHandler.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Cartables\\Commands\\CreateCartable\\CreateDetailsCartableCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:48:18.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:47:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\AmirHossein-Project\\VhisperSolution\\VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "VhisperSolution\\Src\\Core\\VhisperSolution.Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:44:45.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

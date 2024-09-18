@@ -1,0 +1,17 @@
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.deps.json
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Application.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Domain.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Application.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\bin\Debug\net8.0\VhisperSolution.Domain.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.csproj.AssemblyReference.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.AssemblyInfoInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.AssemblyInfo.cs
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.csproj.CoreCompileInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperS.DB7E7D2C.Up2Date
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\refint\VhisperSolution.Infrastructure.FileManager.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\VhisperSolution.Infrastructure.FileManager.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.FileManager\obj\Debug\net8.0\ref\VhisperSolution.Infrastructure.FileManager.dll

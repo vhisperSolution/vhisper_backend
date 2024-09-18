@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = VhisperSolution.Domain
+build_property.ProjectDir = C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Core\VhisperSolution.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

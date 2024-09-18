@@ -1,0 +1,17 @@
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Infrastructure.Identity.deps.json
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Infrastructure.Identity.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Infrastructure.Identity.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Application.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Domain.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Application.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\bin\Debug\net8.0\VhisperSolution.Domain.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.csproj.AssemblyReference.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.AssemblyInfoInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.AssemblyInfo.cs
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperS.A2F77C7E.Up2Date
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\refint\VhisperSolution.Infrastructure.Identity.dll
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\VhisperSolution.Infrastructure.Identity.pdb
+C:\AmirHossein-Project\VhisperSolution\VhisperSolution\Src\Infrastructure\VhisperSolution.Infrastructure.Identity\obj\Debug\net8.0\ref\VhisperSolution.Infrastructure.Identity.dll
